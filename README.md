@@ -9,4 +9,6 @@
 
 ## Additional Tools 
 ### Audio-Regler
-winget install File-New-Project.EarTrumpet
+(https://github.com/File-New-Project/EarTrumpet)
+
+  winget install File-New-Project.EarTrumpet
